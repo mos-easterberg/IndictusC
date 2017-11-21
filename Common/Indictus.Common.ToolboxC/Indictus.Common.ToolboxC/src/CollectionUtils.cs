@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Indictus.Common.ToolboxC
 {
-    class CollectionUtils
+    public class CollectionUtils
     {
     //    Public Shared Function TranslateDelimitedStringToCollection(ByVal sString As String, ByVal sDelimiter As String) As Collection
 

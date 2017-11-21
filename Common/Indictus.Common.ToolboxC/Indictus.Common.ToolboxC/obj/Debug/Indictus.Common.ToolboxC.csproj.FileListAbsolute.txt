@@ -1,0 +1,5 @@
+D:\dev\C#\IndictusC\Common\Indictus.Common.ToolboxC\Indictus.Common.ToolboxC\bin\Debug\Indictus.Common.ToolboxC.dll
+D:\dev\C#\IndictusC\Common\Indictus.Common.ToolboxC\Indictus.Common.ToolboxC\bin\Debug\Indictus.Common.ToolboxC.pdb
+D:\dev\C#\IndictusC\Common\Indictus.Common.ToolboxC\Indictus.Common.ToolboxC\obj\Debug\Indictus.Common.ToolboxC.csprojResolveAssemblyReference.cache
+D:\dev\C#\IndictusC\Common\Indictus.Common.ToolboxC\Indictus.Common.ToolboxC\obj\Debug\Indictus.Common.ToolboxC.dll
+D:\dev\C#\IndictusC\Common\Indictus.Common.ToolboxC\Indictus.Common.ToolboxC\obj\Debug\Indictus.Common.ToolboxC.pdb

@@ -1,0 +1,11 @@
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\bin\Debug\IndictusC.Common.ToolboxTester.exe.config
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\bin\Debug\IndictusC.Common.ToolboxTester.exe
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\bin\Debug\IndictusC.Common.ToolboxTester.pdb
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\bin\Debug\Indictus.Common.ToolboxC.dll
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\bin\Debug\Indictus.Common.ToolboxC.pdb
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\obj\Debug\IndictusC.Common.ToolboxTester.csprojResolveAssemblyReference.cache
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\obj\Debug\IndictusC.Common.ToolboxTester.frmMain.resources
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\obj\Debug\IndictusC.Common.ToolboxTester.Properties.Resources.resources
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\obj\Debug\IndictusC.Common.ToolboxTester.csproj.GenerateResource.Cache
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\obj\Debug\IndictusC.Common.ToolboxTester.exe
+D:\dev\C#\IndictusC\Common\IndictusC.Common.ToolboxTester\IndictusC.Common.ToolboxTester\obj\Debug\IndictusC.Common.ToolboxTester.pdb
