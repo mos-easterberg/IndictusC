@@ -1,0 +1,16 @@
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\IndictusC.SharePoint.SharePointToolboxTester.exe.config
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\IndictusC.SharePoint.SharePointToolboxTester.exe
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\IndictusC.SharePoint.SharePointToolboxTester.pdb
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\IndictusC.SharePoint.SharePointToolbox.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\IndictusC.SharePoint.SharePointToolbox.pdb
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\obj\Debug\IndictusC.SharePoint.SharePointToolboxTester.csprojResolveAssemblyReference.cache
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\obj\Debug\IndictusC.SharePoint.SharePointToolboxTester.Form1.resources
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\obj\Debug\IndictusC.SharePoint.SharePointToolboxTester.Properties.Resources.resources
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\obj\Debug\IndictusC.SharePoint.SharePointToolboxTester.csproj.GenerateResource.Cache
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\obj\Debug\IndictusC.SharePoint.SharePointToolboxTester.exe
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\obj\Debug\IndictusC.SharePoint.SharePointToolboxTester.pdb
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\Newtonsoft.Json.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\Newtonsoft.Json.pdb
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolboxTester\IndictusC.SharePoint.SharePointToolboxTester\bin\Debug\Newtonsoft.Json.xml

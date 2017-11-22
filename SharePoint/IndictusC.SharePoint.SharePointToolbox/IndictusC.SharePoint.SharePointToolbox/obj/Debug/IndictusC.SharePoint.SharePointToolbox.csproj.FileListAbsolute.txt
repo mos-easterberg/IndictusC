@@ -1,0 +1,7 @@
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolbox\IndictusC.SharePoint.SharePointToolbox\bin\Debug\IndictusC.SharePoint.SharePointToolbox.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolbox\IndictusC.SharePoint.SharePointToolbox\bin\Debug\IndictusC.SharePoint.SharePointToolbox.pdb
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolbox\IndictusC.SharePoint.SharePointToolbox\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolbox\IndictusC.SharePoint.SharePointToolbox\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolbox\IndictusC.SharePoint.SharePointToolbox\obj\Debug\IndictusC.SharePoint.SharePointToolbox.csprojResolveAssemblyReference.cache
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolbox\IndictusC.SharePoint.SharePointToolbox\obj\Debug\IndictusC.SharePoint.SharePointToolbox.dll
+D:\dev\C#\IndictusC\SharePoint\IndictusC.SharePoint.SharePointToolbox\IndictusC.SharePoint.SharePointToolbox\obj\Debug\IndictusC.SharePoint.SharePointToolbox.pdb
