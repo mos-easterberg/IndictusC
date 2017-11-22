@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Indictus.Common;
+using IndictusC.Common;
 
 namespace IndictusC.Common.ToolboxTester
 {
@@ -33,7 +33,7 @@ namespace IndictusC.Common.ToolboxTester
 				{
 					case ("StringUtils.Split"):
 						{
-							ArrayList arr = Indictus.Common.ToolboxC.StringUtils.Split("skam;den;som;ger;sig", ";");
+							ArrayList arr = Toolbox.StringUtils.Split("skam;den;som;ger;sig", ";");
 							foreach (string s in arr)
 							{
 								this.txtData.AppendText(s + Environment.NewLine);
@@ -46,7 +46,7 @@ namespace IndictusC.Common.ToolboxTester
 							List<string> list_1 = new List<string>(new string[] { "a", "b", "c" });
 							List<string> list_2 = new List<string>(new string[] { "d", "e", "f" });
 
-							bool b = Indictus.Common.ToolboxC.StringUtils.IsInList(list_1, list_2, false);
+							bool b = Toolbox.StringUtils.IsInList(list_1, list_2, false);
 							this.txtData.AppendText(b.ToString());
 							break;
 						}

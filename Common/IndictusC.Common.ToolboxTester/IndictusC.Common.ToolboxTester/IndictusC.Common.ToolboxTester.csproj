@@ -79,9 +79,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Indictus.Common.ToolboxC\Indictus.Common.ToolboxC\Indictus.Common.ToolboxC.csproj">
+    <ProjectReference Include="..\..\IndictusC.Common.Toolbox\Indictus.Common.ToolboxC\IndictusC.Common.Toolbox.csproj">
       <Project>{23dbce3d-e58d-4081-bb6c-df6cd75b5a5c}</Project>
-      <Name>Indictus.Common.ToolboxC</Name>
+      <Name>IndictusC.Common.Toolbox</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

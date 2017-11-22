@@ -1,0 +1,4 @@
+D:\dev\C#\IndictusC\Common\IndictusC.Common.Toolbox\Indictus.Common.ToolboxC\bin\Debug\IndictusC.Common.Toolbox.dll
+D:\dev\C#\IndictusC\Common\IndictusC.Common.Toolbox\Indictus.Common.ToolboxC\bin\Debug\IndictusC.Common.Toolbox.pdb
+D:\dev\C#\IndictusC\Common\IndictusC.Common.Toolbox\Indictus.Common.ToolboxC\obj\Debug\IndictusC.Common.Toolbox.dll
+D:\dev\C#\IndictusC\Common\IndictusC.Common.Toolbox\Indictus.Common.ToolboxC\obj\Debug\IndictusC.Common.Toolbox.pdb
